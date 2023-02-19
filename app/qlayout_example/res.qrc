@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icon/free-icon-pen-4546497.png</file>
+    <file>icon/del.png</file>
+  </qresource>
+</RCC>
